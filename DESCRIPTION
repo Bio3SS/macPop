@@ -6,7 +6,7 @@ Authors@R: c(person("Jonathan","Dushoff",email="dushoff@mcmaster.ca",role=c("aut
 Depends: R (>= 3.5.0)
 Imports: tibble, dplyr
 Suggests: knitr
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Encoding: UTF-8
 License: GPL-3 + file LICENSE
 LazyData: yes
