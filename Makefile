@@ -1,4 +1,4 @@
-## This is macPop
+## This is macPop; JD obviously intends to build a package here, but no evidence of progress
 
 current: target
 -include target.mk
